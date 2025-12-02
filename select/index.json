@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "境界の彼方",
+  "base_artist": "茅原実里",
+  "createdAt": "2025-12-02T01:39:19.026663Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "境界の彼方",
+      "artist": "茅原実里",
+      "has_synced": true,
+      "path": "select/01_境界の彼方_茅原実里.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "境界の彼方",
+      "artist": "Chihara, Minori",
+      "has_synced": true,
+      "path": "select/02_境界の彼方_Chihara,_Minori.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "境界の彼方",
+      "artist": "Anime Project",
+      "has_synced": true,
+      "path": "select/03_境界の彼方_Anime_Project.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "境界の彼方",
+      "artist": "茅原実里",
+      "has_synced": true,
+      "path": "select/04_境界の彼方_茅原実里.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "境界の彼方",
+      "artist": "茅原実里",
+      "has_synced": true,
+      "path": "select/05_境界の彼方_茅原実里.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "境界の彼方",
+      "artist": "茅原実里",
+      "has_synced": true,
+      "path": "select/06_境界の彼方_茅原実里.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "境界の彼方 (Off Vocal)",
+      "artist": "茅原実里",
+      "has_synced": true,
+      "path": "select/07_境界の彼方_(Off_Vocal)_茅原実里.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "境界の彼方",
+      "artist": "茅原 実里",
+      "has_synced": false,
+      "path": "select/pl_01_境界の彼方_茅原_実里.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "境界の彼方",
+      "artist": "茅原 実里",
+      "has_synced": false,
+      "path": "select/pl_02_境界の彼方_茅原_実里.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "境界の彼方",
+      "artist": "茅原 実里",
+      "has_synced": false,
+      "path": "select/pl_03_境界の彼方_茅原_実里.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "境界の彼方",
+      "artist": "茅原 実里",
+      "has_synced": false,
+      "path": "select/pl_04_境界の彼方_茅原_実里.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "境界の彼方",
+      "artist": "茅原 実里",
+      "has_synced": false,
+      "path": "select/pl_05_境界の彼方_茅原_実里.txt"
+    }
+  ]
+}
